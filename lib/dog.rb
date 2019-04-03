@@ -2,3 +2,4 @@ class Dog
   
 end
 
+bark =
